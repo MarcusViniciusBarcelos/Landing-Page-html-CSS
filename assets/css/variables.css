@@ -1,0 +1,28 @@
+:root {
+    --primary-color: #116F07;
+    --secondary-color: crimson;
+    --white-color: #fff;
+    --light-gray-color: #eee;
+    --gap: 3rem;
+
+    --container-width: 120rem;
+    --container-width-small: 80rem;
+    --container-images: 36rem;
+  
+    --spacings-xsmall: 1rem;
+    --spacings-small: 2rem;
+    --spacings-medium: 3rem;
+    --spacings-large: 5rem;
+    --spacings-xlarge: 8rem;
+    --spacings-xxlarge: 11rem;
+  
+    --font-bold: 700;
+    --font-xxlarge: 10rem;
+    --font-xlarge: 8rem;
+    --font-large: 6rem;
+    --font-medium: 4rem;
+    --font-normal: 2.3rem;
+    --font-small: 1.8rem;
+    --font-xsmall: 1.6rem;
+    --font-xxsmall: 1.4rem;
+}
